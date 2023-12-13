@@ -8,5 +8,6 @@ Input:
    Output:
     simple interest = p*t*r
 
-    https://2.bp.blogspot.com/-fCIxbWk3eoM/Uu6gHGoj-JI/AAAAAAAA1A8/QlytnUJEE2A/s1600/castellana+dia+01.jpg
+   
+
     
